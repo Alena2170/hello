@@ -1,1 +1,3 @@
-Hello, by!
+Hello, world!
+Hi, my
+Новая строка
