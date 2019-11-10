@@ -2,4 +2,4 @@ Hi, my
 Новая строка
 Другая строка
 
-Hello, git!
+Hello, git
